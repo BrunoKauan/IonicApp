@@ -16,7 +16,3 @@ const routes: Routes = [
   declarations: [LoginPage]
 })
 export class LoginPageModule {}
-
-/*
-Testando pra ver se o git ta funcionando mermo saporra fasdfa sdfas
-*/
